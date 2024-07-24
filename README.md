@@ -13,7 +13,7 @@ The NeuroSymbolic Disease Predictor leverages a hybrid approach to disease predi
 The system uses a neural network model that has been trained on the symptom-disease dataset. It incorporates a symbolic reasoning module that utilizes the connections made in the dataset. By combining these two components, the system can capture both the complexity of symptom-disease relationships and the interpretability of the predictions.
 
 # Working example
-![Example]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Thesavagecoder7784/Neurosymbolic-AI-Disease-Predictor/blob/main/images/Screenshot%202024-07-24%20at%202.04.13%E2%80%AFPM.png))
+![Example]([https://github.com/Thesavagecoder7784/Neurosymbolic-AI-Disease-Predictor/blob/main/images/Screenshot%202024-07-24%20at%202.04.13%E2%80%AFPM.png?raw=true])
 
 # Results
 The NeuroSymbolic Disease Predictor has demonstrated promising results in predicting diseases based on user-entered symptoms. The system achieves high accuracy in identifying the correct disease based on the symptoms provided by the user. Additionally, the symbolic reasoning module provides explanations and insights into the prediction, helping users understand the rationale behind the predictions.
